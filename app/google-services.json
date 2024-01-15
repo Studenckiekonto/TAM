@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577023172089",
+    "project_id": "cities-cb168",
+    "storage_bucket": "cities-cb168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577023172089:android:b28cb2539e50b0eafa3128",
+        "android_client_info": {
+          "package_name": "com.kielczykowski.tam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrEVz06VTol7mSVH_8kHdryVay4eqaKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
