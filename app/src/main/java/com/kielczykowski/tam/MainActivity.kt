@@ -225,7 +225,7 @@ fun MainView(modifier: Modifier, viewModel: MainViewModel, onClick: (String) -> 
                             citiesView(city = cities.city,
                                 country = cities.country,
                                 value = cities.populationCounts.firstOrNull()!!.value,
-                                id = "MARIEHAMN",
+                                id = cities.city,
                                 onClick = { id -> onClick.invoke(id) })
 
                         }
